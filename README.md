@@ -49,7 +49,7 @@ ____________
 
 ### Next Step
 
-![conclusion2017](./image/residual.png)
+<img src = "./image/residual.png" width="500"/>
 
 What more can we do to improve our model? First, we can use Ridge Regression. This is another regularization model such as Lasso Regression. We can also try log-scaling our target or features to make their distribution more normally distributed. The impact of this can be seen in residual plots such as the one shown above. The more randomly scattered the data points in the plot, the more improvement in our model it implies.   
 
