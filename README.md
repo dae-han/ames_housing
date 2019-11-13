@@ -1,6 +1,6 @@
 ### Project Statement: How to pick the best features for the prediction on property value?
 
-![conclusion2017](./image/zillow.png)
+<img src = "./image/zillow.png" width="400"/>
 
  Zillow, a real estate database company offers what they call 'Zestimate'. According to Zillow, Zestimate is an estimate on property value from their 'public and user submitted data taking into account home facts, location and market conditions'.            
 How can we make such predictions? What can we do to improve the predictions? This project explores dataset of features in properties sold in Ames, IA and studies how might we optimize the 'Zestimation' of property value.
