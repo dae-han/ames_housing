@@ -1,4 +1,4 @@
-### Project Statement: How to pick the best features for the prediction on property value?
+### How we know what determines property value?
 
 <img src = "./image/zillow.png" width="400"/>
 
