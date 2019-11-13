@@ -1,4 +1,4 @@
-# How we know what determines property value?
+# How do we know what determines property value?
 
 <img src = "./image/zillow.png" width="400"/>
 
